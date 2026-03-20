@@ -40,5 +40,4 @@ This project was developed with the help  of Antigravity.
 - **Logic Layer**: Python-based analytics engine with optimized SQL queries.
 - **Presentation Layer**: Interactive Streamlit Dashboard with multi-tier filtering.
 
----
-**Prepared for the Provectus Internship Program.**
+
