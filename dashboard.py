@@ -68,8 +68,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # Sidebar
-st.sidebar.title("Provectus Internship")
-st.sidebar.subheader("Claude Code Analytics Platform")
+st.sidebar.title("Claude Code Analytics Platform")
 
 # Filters
 with get_connection() as conn:
