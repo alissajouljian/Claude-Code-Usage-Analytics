@@ -24,7 +24,7 @@ The **Claude Code Usage Analytics Platform** is a data-driven solution designed 
 ---
 
 ## 🧪 LLM Usage Log (AI-First Development)
-This project was developed using an **AI-First Philosophy**, with Antigravity acting as a lead engineer under human supervision.
+This project was developed with the help  of Antigravity. 
 
 ### AI Collaboration Highlights:
 1. **Automated Analysis**: Requirements extracted directly from the assignment PDF.
