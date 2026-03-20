@@ -44,5 +44,3 @@ streamlit run dashboard.py
 ## Business Insights
 Detailed findings on cost efficiency, tool performance, and engineering productivity can be found in **[PRESENTATION.md](PRESENTATION.md)**.
 
----
-Built for the Provectus Internship Program.
